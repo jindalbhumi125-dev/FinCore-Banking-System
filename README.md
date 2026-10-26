@@ -51,3 +51,23 @@ The screenshots demonstrate the database structure, customer-account relationshi
 ## Conclusion
 
 This project demonstrates the practical use of MySQL for designing a relational banking database, querying connected information, and implementing database programming features for reporting and transaction-related operations.
+
+## Project Screenshots
+
+The following screenshots show the database structure and the outputs obtained by executing SQL queries in MySQL Workbench.
+
+| Screenshot | Description |
+|---|---|
+| [Database Tables](screenshots/Database%20Table.png) | Displays the tables in the banking database. |
+| [Bank Details](screenshots/Bank%20Details.png) | Displays bank information. |
+| [Customer Accounts](screenshots/Customer%20account.png) | Shows customer-account information. |
+| [Account Balance](screenshots/Account%20balance.png) | Shows account balance information. |
+| [Account Status](screenshots/Account%20status.png) | Shows account status information. |
+| [Customer Loans](screenshots/customer%20loan.png) | Displays loan-related information. |
+| [Audit Details](screenshots/Audit%20details.png) | Shows account audit information. |
+| [Transaction Status](screenshots/transaction%20status.png) | Shows transaction-related output. |
+| [Total Branch](screenshots/Total%20branch.png) | Shows branch-related summary information. |
+| [Total Balance](screenshots/Total%20balance.png) | Shows a balance summary. |
+| [Table Names](screenshots/tablename.png) | Displays database table names. |
+
+
