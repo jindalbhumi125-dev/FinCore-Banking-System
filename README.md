@@ -70,4 +70,9 @@ The following screenshots show the database structure and the outputs obtained b
 | [Total Balance](screenshots/Total%20balance.png) | Shows a balance summary. |
 | [Table Names](screenshots/tablename.png) | Displays database table names. |
 
+## Project Report
+
+[View FinCore Banking System Project Report (PDF)](Bhumi_FinCore_Project_Report.pdf)
+
+
 
